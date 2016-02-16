@@ -36,5 +36,28 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-library:1.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:4.2.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: com.cyc:cyc-api-parent:1.0.0-rc5" level="project" />
+    <orderEntry type="library" name="Maven: com.cyc:cyc-base-client:1.0.0-rc5.2" level="project" />
+    <orderEntry type="library" name="Maven: com.sun.xml.bind:jaxb-impl:2.2.6" level="project" />
+    <orderEntry type="library" name="Maven: xerces:xercesImpl:2.10.0" level="project" />
+    <orderEntry type="library" name="Maven: xml-apis:xml-apis:1.4.01" level="project" />
+    <orderEntry type="library" name="Maven: org.atteo.classindex:classindex:3.1" level="project" />
+    <orderEntry type="library" name="Maven: com.cyc:cyc-session-client:1.0.0-rc5.2" level="project" />
+    <orderEntry type="library" name="Maven: com.cyc:cyc-core-api:1.0.0-rc5" level="project" />
+    <orderEntry type="library" name="Maven: com.cyc:cyc-session:1.0.0-rc4" level="project" />
+    <orderEntry type="library" name="Maven: com.cyc:cyc-kb:1.0.0-rc4" level="project" />
+    <orderEntry type="library" name="Maven: commons-lang:commons-lang:2.6" level="project" />
+    <orderEntry type="library" name="Maven: com.cyc:cyc-core-object-api:1.0.0-rc5" level="project" />
+    <orderEntry type="library" name="Maven: com.cyc:cyc-kb-client:1.0.0-rc5.2" level="project" />
+    <orderEntry type="library" name="Maven: com.cyc:cyc-query-client:1.0.0-rc5.2" level="project" />
+    <orderEntry type="library" name="Maven: com.cyc:cyc-query:1.0.0-rc4" level="project" />
+    <orderEntry type="library" name="Maven: com.cyc:cyc-common-lib-parent:1.0.0-rc5" level="project" />
+    <orderEntry type="library" name="Maven: com.cyc:cyc-core-client-impl:1.0.0-rc5.2" level="project" />
+    <orderEntry type="library" name="Maven: com.cyc:cyc-default-config-parent:1.0.0-rc2" level="project" />
+    <orderEntry type="library" name="Maven: com.cyc:cyc-core-parent:1.0.0-rc4" level="project" />
+    <orderEntry type="library" name="Maven: com.cyc:cyc-core-suite:1.0.0-rc4" level="project" />
+    <orderEntry type="library" name="Maven: com.cyc:cyc-sonatype-oss-parent:1.0.0-rc3" level="project" />
+    <orderEntry type="library" name="Maven: com.cyc:cyc-core-client-parent:1.0.0-rc5.2" level="project" />
+    <orderEntry type="library" name="Maven: com.cyc:cyc-core-object-factories:1.0.0-rc5" level="project" />
   </component>
 </module>
